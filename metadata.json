@@ -1,0 +1,7 @@
+{
+  "name": "Zomin Turizm va Madaniy Meros Texnikumi",
+  "description": "Zomin Turizm va Madaniy Meros Texnikumi rasmiy veb-portali. Professional ta'lim, qabul va AI maslahatchisi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
